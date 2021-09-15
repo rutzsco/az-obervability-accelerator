@@ -2,14 +2,15 @@
 
 ## Operations
 
-- Results: PASS | FAIL
-- Performance: Duration
+- Request Count by Operation
+- Request by Result: PASS | FAIL
+- Performance: Duration by Operation
 
 ## Resources
 
-- A
-- B
-- C
+- Memory Usage
+- Bytes Recieved
+- Bytes Sent
 
 ## Reference
 

@@ -2,6 +2,8 @@
 
 ## Reference
 
+https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring
+
 ### Reliability
 
 - https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/monitor-checklist

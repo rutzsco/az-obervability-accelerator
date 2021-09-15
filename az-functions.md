@@ -11,6 +11,7 @@
 - Memory Usage
 - Bytes Recieved
 - Bytes Sent
+- Number of instances
 
 ## Reference
 

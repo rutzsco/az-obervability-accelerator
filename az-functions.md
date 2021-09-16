@@ -2,16 +2,16 @@
 
 ## Operations
 
-- Request Count by Operation
-- Request by Result: PASS | FAIL
-- Performance: Duration by Operation
+- Request Count by Operation - (AI)
+- Request by Result: PASS | FAIL - (AI)
+- Performance: Duration by Operation - (AI/LA)
 
 ## Resources
 
-- Memory Usage
-- Bytes Recieved
-- Bytes Sent
-- Number of instances
+- Memory Usage - (Metric)
+- Bytes Recieved (Metric)
+- Bytes Sent (Metric)
+- Number of instances (Metric)
 
 ## Reference
 

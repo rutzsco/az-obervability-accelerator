@@ -14,3 +14,8 @@
 ### Performance
 
 - https://docs.microsoft.com/en-us/azure/architecture/framework/scalability/monitor
+
+
+### Task List
+
+- Functions - Scott - In Process

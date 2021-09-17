@@ -2,18 +2,18 @@
 
 ## Reference
 
-- https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring
-- https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/monitoring-strategy
+- [Best Practices for Monitoring Cloud Applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)
+- [Cloud Monitoring guide: Formulate a Monitoring Strategy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/monitoring-strategy)
 
 ### Reliability
 
-- https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/monitor-checklist
-- https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/monitoring
-- https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/monitor-model
+- [Monitoring for Reliability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/monitor-checklist)
+- [Monitoring Application Health for Relaibility](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/monitoring)
+- [Health Modeling for Relability](https://docs.microsoft.com/en-us/azure/architecture/framework/resiliency/monitor-model)
 
 ### Performance
 
-- https://docs.microsoft.com/en-us/azure/architecture/framework/scalability/monitor
+- [Monitoring for Performance Efficiency](https://docs.microsoft.com/en-us/azure/architecture/framework/scalability/monitor)
 
 ### Service Specific Guidance
 - [Cosmos DB](cosmos-db.md)

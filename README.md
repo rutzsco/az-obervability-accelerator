@@ -16,9 +16,10 @@
 - [Monitoring for Performance Efficiency](https://docs.microsoft.com/en-us/azure/architecture/framework/scalability/monitor)
 
 ### Service Specific Guidance
-- [Cosmos DB](cosmos-db.md)
-- [Azure Functions](az-functions.md)
-- [App Config Service](app-config.md)
+- [API Management](services/api-management.md)
+- [App Config Service](services/app-config.md)
+- [Azure Functions](services/az-functions.md)
+- [Cosmos DB](services/cosmos-db.md)
 
 
 ### Task List

@@ -11,4 +11,5 @@
 
 ## Reference
 
-- https://docs.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration?tabs=portal
+- [Monitor App Configuration](https://docs.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration?tabs=portal)
+- [App Config Monitor Data Reference](https://docs.microsoft.com/en-us/azure/azure-app-configuration/monitor-app-configuration-reference)

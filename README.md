@@ -25,9 +25,8 @@
 
 - Functions - Scott - In Progress
 - App Config - Chris - In Progress
+- API Management - Chris - In Progress
 - Key Vault
 - Storage Account
 - Azure SQL
 - Cosmos DB
-- Log Analytics
-- API Management

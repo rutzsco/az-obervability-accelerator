@@ -15,6 +15,11 @@
 
 - https://docs.microsoft.com/en-us/azure/architecture/framework/scalability/monitor
 
+### Service Specific Guidance
+- [Cosmos DB](cosmos-db.md)
+- [Azure Functions](az-functions.md)
+- [App Config Service](app-config.md)
+
 
 ### Task List
 

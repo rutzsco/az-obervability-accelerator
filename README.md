@@ -18,4 +18,11 @@
 
 ### Task List
 
-- Functions - Scott - In Process
+- Functions - Scott - In Progress
+- App Config - Chris - In Progress
+- Key Vault
+- Storage Account
+- Azure SQL
+- Cosmos DB
+- Log Analytics
+- API Management

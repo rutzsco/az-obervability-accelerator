@@ -16,9 +16,13 @@
 - [Monitoring for Performance Efficiency](https://docs.microsoft.com/en-us/azure/architecture/framework/scalability/monitor)
 
 ### Service Specific Guidance
-- [API Management](services/api-management.md)
-- [App Config Service](services/app-config.md)
+
 - [Azure Functions](services/az-functions.md)
+- [App Config Service](services/app-config.md)
+- [API Management](services/api-management.md)
+- [Key Vault](services/key-vault.md)
+- [Storage Account](services/storage.md)
+- [Azure SQL](services/sql-db.md)
 - [Cosmos DB](services/cosmos-db.md)
 
 
@@ -27,7 +31,7 @@
 - Functions - Scott - In Progress
 - App Config - Chris - In Progress
 - API Management - Chris - In Progress
-- Key Vault
-- Storage Account
+- Key Vault - Matthew - In Progress
+- Storage Account - Matthew - In Progress
 - Azure SQL
 - Cosmos DB

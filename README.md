@@ -21,7 +21,7 @@
 - [App Config Service](services/app-config.md)
 - [API Management](services/api-management.md)
 - [Key Vault](services/key-vault.md)
-- [Storage Account](services/storage.md)
+- [Storage Account](services/storage-account.md)
 - [Azure SQL](services/sql-db.md)
 - [Cosmos DB](services/cosmos-db.md)
 

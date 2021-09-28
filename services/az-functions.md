@@ -6,6 +6,10 @@
 - Request by Result: PASS | FAIL - (AI)
 - Performance: Duration by Operation - (AI/LA)
 
+## Scaling
+- TBD Scale Controller Visuals
+
+
 ## Resources
 
 - Memory Usage - (Metric)
@@ -17,3 +21,4 @@
 
 - https://docs.microsoft.com/en-us/azure/azure-functions/monitor-metrics?tabs=portal
 - https://docs.microsoft.com/en-us/azure/azure-functions/analyze-telemetry-data
+- https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#scale-controller-logs

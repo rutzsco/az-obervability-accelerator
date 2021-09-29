@@ -35,3 +35,8 @@
 - Storage Account - Matthew - In Progress
 - Azure SQL
 - Cosmos DB
+- App Service
+- Service Bus
+- Event Hub
+- Event Grid
+- Stream Analytics

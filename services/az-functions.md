@@ -37,6 +37,7 @@ requests
 
 ## Reference
 
+- https://www.uveta.io/categories/blog/azure-functions-deep-dive/
 - https://docs.microsoft.com/en-us/azure/azure-functions/configure-monitoring?tabs=v2
 - https://docs.microsoft.com/en-us/azure/azure-functions/monitor-metrics?tabs=portal
 - https://docs.microsoft.com/en-us/azure/azure-functions/analyze-telemetry-data

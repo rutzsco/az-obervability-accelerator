@@ -37,6 +37,7 @@ requests
 
 ## Reference
 
+- https://docs.microsoft.com/en-us/azure/azure-functions/configure-monitoring?tabs=v2
 - https://docs.microsoft.com/en-us/azure/azure-functions/monitor-metrics?tabs=portal
 - https://docs.microsoft.com/en-us/azure/azure-functions/analyze-telemetry-data
 - https://docs.microsoft.com/en-us/azure/azure-functions/functions-monitoring#scale-controller-logs

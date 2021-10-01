@@ -6,6 +6,17 @@
 - Request by Result: PASS | FAIL - (AI)
 - Performance: Duration by Operation - (AI/LA)
 
+- Performance - Slow requests 
+
+```kql
+let threshold = 1000
+requests
+| summarize count() by performanceBucket, operation_Name
+| where duration > 10000
+| render  columnchart 
+```
+
+
 ## Scaling
 
 - Scale - Number of Instances over time

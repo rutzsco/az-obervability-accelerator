@@ -1,5 +1,10 @@
 # az-obervability-accelerator
 
+## Observability Journey
+
+![Journey](observability-journey.png)
+
+
 ## Reference
 
 - [Best Practices for Monitoring Cloud Applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)

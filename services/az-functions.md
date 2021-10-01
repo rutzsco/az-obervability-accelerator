@@ -9,10 +9,9 @@
 - Performance - Slow requests 
 
 ```kql
-let threshold = 1000
 requests
-| summarize count() by performanceBucket, operation_Name
 | where duration > 10000
+| summarize count() by performanceBucket, operation_Name
 | render  columnchart 
 ```
 

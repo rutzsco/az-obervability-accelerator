@@ -26,7 +26,17 @@ requests
 | render timechart
 ```
 
+- Scale Controller Instance Changes
 
+```kql
+traces 
+| extend CustomDimensions = todynamic(tostring(customDimensions))
+| where CustomDimensions.Category == "ScaleControllerLogs"
+| where message == "Instance count changed"
+| extend Reason = CustomDimensions.Reason
+| extend PreviousInstanceCount = CustomDimensions.PreviousInstanceCount
+| extend NewInstanceCount = CustomDimensions.CurrentInstanceCount
+```
 
 ## Resources
 

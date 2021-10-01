@@ -31,6 +31,14 @@
 - [Cosmos DB](services/cosmos-db.md)
 
 
+### Personas
+
+- End Users
+- Developers
+- Operations
+- SRE
+- Product Owner(Cost/Usage)
+
 ### Task List
 
 - Functions - Scott - In Progress

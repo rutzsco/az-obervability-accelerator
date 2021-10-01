@@ -7,7 +7,15 @@
 - Performance: Duration by Operation - (AI/LA)
 
 ## Scaling
-- TBD Scale Controller Visuals
+
+- Scale - Number of Instances over time
+
+```kql
+requests
+| summarize ['rate/minute'] = dcount(cloud_RoleInstance) by bin(timestamp, 1m)
+| render timechart
+```
+
 
 
 ## Resources

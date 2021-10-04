@@ -22,8 +22,8 @@ requests
 
 ```kql
 requests
-| summarize ['rate/minute'] = dcount(cloud_RoleInstance) by bin(timestamp, 1m)
-| render timechart
+| summarize instances = dcount(cloud_RoleInstance) by bin(timestamp, 30s)
+| render timechart  
 ```
 
 - Scale Controller Instance Changes

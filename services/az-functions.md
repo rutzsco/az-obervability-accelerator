@@ -23,7 +23,15 @@ requests
 ```kql
 requests
 | summarize instances = dcount(cloud_RoleInstance) by bin(timestamp, 30s)
-| render timechart  
+| render timechart
+
+OR
+
+requests
+| make-series instances=dcount(cloud_RoleInstance) default=0 on timestamp in range(ago(4h), now(), 30s)
+| mv-expand timestamp, instances
+| project todatetime(timestamp), toint(instances)
+| render timechart 
 ```
 
 - Scale Controller Instance Changes

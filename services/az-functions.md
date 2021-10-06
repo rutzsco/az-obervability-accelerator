@@ -34,6 +34,15 @@ requests
 | render timechart 
 ```
 
+## Resources
+
+- Memory Usage - (Metric)
+- Bytes Recieved (Metric)
+- Bytes Sent (Metric)
+- Number of instances (Metric)
+
+## Debugging
+
 - Scale Controller Instance Changes
 
 ```kql
@@ -45,13 +54,6 @@ traces
 | extend PreviousInstanceCount = CustomDimensions.PreviousInstanceCount
 | extend NewInstanceCount = CustomDimensions.CurrentInstanceCount
 ```
-
-## Resources
-
-- Memory Usage - (Metric)
-- Bytes Recieved (Metric)
-- Bytes Sent (Metric)
-- Number of instances (Metric)
 
 ## Reference
 

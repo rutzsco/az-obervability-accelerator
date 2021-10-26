@@ -6,7 +6,7 @@
 
 
 ## Reference
-
+- https://docs.microsoft.com/en-us/azure/azure-monitor/overview
 - [Best Practices for Monitoring Cloud Applications](https://docs.microsoft.com/en-us/azure/architecture/best-practices/monitoring)
 - [Cloud Monitoring guide: Formulate a Monitoring Strategy](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/monitoring-strategy)
 
